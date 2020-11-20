@@ -1,2 +1,1 @@
-# week-number-customization-scheduler-wpf
-How to customize week number using DataTemplate in WPF Schedule (SfScheduler)
+**[View document in Syncfusion WPF Knowledge base](https://www.syncfusion.com/kb/12099/how-to-customize-week-number-using-datatemplate-in-wpf-schedule-sfscheduler)**
